@@ -1,7 +1,7 @@
 # SQL-Projects
 This repository contains a collection of SQL projects in different scenarios.
 ## 📌 Case Studies
-- [Case Study #1 - When Was the Golden Age of Video Games]([#1-case-study-1---when-was-the-golden-age-of-video-games])
+- [Case Study #1 - When Was the Golden Age of Video Games](#1-case-study-1---when-was-the-golden-age-of-video-games)
 - [Case Study #2 - Covid Data Exploration](#2-case-study-2---covid-data-exploration)
 #
 ## 1. Case study #1 - When Was the Golden Age of Video Games
