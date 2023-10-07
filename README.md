@@ -1,4 +1,4 @@
-# SQL-Projects
+ ew# SQL-Projects
 This repository contains a collection of SQL projects in different scenarios.
 ## 📌 Case Studies
 - [Case Study #1 - When Was the Golden Age of Video Games](#1-case-study-1---when-was-the-golden-age-of-video-games)
@@ -112,7 +112,7 @@ Explore all of the data on COVID-19 deaths and vaccinations. The complete COVID-
 | `new_people_vaccinated_smoothed`             | Daily number of people receiving their first vaccine dose (7-day smoothed)                                                                                                                                                                                                                                                                        |
 | `new_people_vaccinated_smoothed_per_hundred` | Daily number of people receiving their first vaccine dose (7-day smoothed) per 100 people in the total population                                                                                                                                                                                                                                 |
 ## 3. Case Study #3 - Analyzing NYC Public School Test Result Scores
-![Uploading schoolbus.jpg…]()
+<img width="200" src="https://github.com/tuuyen13/SQL-Projects/assets/94332486/23b7c8fc-13fc-4554-8cfd-650d2b009d6b" align="center">
 
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 
