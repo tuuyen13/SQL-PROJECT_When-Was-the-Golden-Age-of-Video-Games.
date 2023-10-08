@@ -1,4 +1,4 @@
- ew# SQL-Projects
+# SQL-Projects
 This repository contains a collection of SQL projects in different scenarios.
 ## 📌 Case Studies
 - [Case Study #1 - When Was the Golden Age of Video Games](#1-case-study-1---when-was-the-golden-age-of-video-games)
@@ -166,4 +166,3 @@ In this notebook, we will take a look at data on SATs across public schools in N
 </tr>
 </tbody>
 </table>
-<p>Let's familiarize ourselves with the data by taking a looking at the first few schools!</p>
