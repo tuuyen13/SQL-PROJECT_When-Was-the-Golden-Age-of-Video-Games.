@@ -4,7 +4,7 @@ This repository contains a collection of SQL projects in different scenarios.
 - [Case Study #1 - When Was the Golden Age of Video Games](#1-case-study-1---when-was-the-golden-age-of-video-games)
 - [Case Study #2 - Covid Data Exploration](#2-case-study-2---covid-data-exploration)
 - [Case Study #3 - Analyzing NYC Public School Test Result Scores](#3-case-study-3---analyzing-nyc-public-school-test-result-scores)
-
+- [Case Study #4 - Analyze International Debt Statistics](#4-case-study-4---analyze-international-debt-statistics)
 ## 1. Case Study #1 - When Was the Golden Age of Video Games
 <img width="200" src="https://github.com/tuuyen13/SQL-Projects/assets/94332486/87617be1-1c96-4619-8702-84a3904829df" align="center">
 
@@ -166,3 +166,16 @@ In this notebook, we will take a look at data on SATs across public schools in N
 </tr>
 </tbody>
 </table>
+
+## 4. Case Study #4 - Analyze International Debt Statistics
+The World Bank's international debt data
+<p><img width="400" src="https://github.com/tuuyen13/SQL-Projects/assets/94332486/89201c80-9033-430f-b652-d6a7cc5819d4" alt></p> 
+
+<p>It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. <a href="https://www.worldbank.org">The World Bank</a> is the organization that provides debt to countries.</p>
+<p>In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like: </p>
+<ul>
+<li>What is the total amount of debt that is owed by the countries listed in the dataset?</li>
+<li>Which country owns the maximum amount of debt and what does that amount look like?</li>
+<li>What is the average amount of debt owed by countries across different debt indicators?</li>
+</ul>
+<p>The first line of code connects us to the <code>international_debt</code> database where the table <code>international_debt</code> is residing. Let's first <code>SELECT</code> <em>all</em> of the columns from the <code>international_debt</code> table. Also, we'll limit the output to the first ten rows to keep the output clean.</p>
